@@ -1,0 +1,65 @@
+/* links */
+
+a:link{color:blue;text-decoration:none;}
+a:hover{color:red;text-decoration:underline;}
+a:visited{color:purple;}
+a:active{color:yellow;}
+
+/* general */
+
+hr{
+ width:50%;
+}
+
+/* body */
+
+body{
+ font-family:arial,verdana,sans-serif;
+ background-color:white;
+ color:black;
+ font-size:larger;
+ margin:1cm;
+}
+
+/* nav */
+
+nav{
+ text-align:center;
+}
+
+/* header */
+
+header{
+ text-align:center;
+}
+
+/* main */
+
+main{
+
+}
+
+/* footer */	
+
+footer{
+ text-align:center;
+}
+
+/* Classes */
+
+.clsDateTimeStamp{
+ color:red;
+ font-style:italic;
+}
+
+.clsPara{
+ text-indent:1cm;
+}
+
+/* ID's */
+
+#idCopyrightMessage{
+ font-weight:bold;
+ background-color:black;
+ color:white;
+}
